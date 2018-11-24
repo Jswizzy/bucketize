@@ -1,0 +1,6 @@
+[package]
+name = "bucketize"
+version = "0.1.0"
+authors = ["Justin Smith <smithjn@g.cofc.edu>"]
+
+[dependencies]
